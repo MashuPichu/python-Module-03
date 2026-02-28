@@ -3,10 +3,10 @@
 #                                                      :::      ::::::::    #
 #  ft_coordinate_system.py                           :+:      :+:    :+:    #
 #                                                  +:+ +:+         +:+      #
-#  By: klucchin <klucchin@student.42.fr>         +#+  +:+       +#+         #
+#  By: klucchin <klucchin@student.42nice.fr>     +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
 #  Created: 2026/02/13 21:06:28 by klucchin        #+#    #+#               #
-#  Updated: 2026/02/18 17:52:25 by klucchin        ###   ########.fr        #
+#  Updated: 2026/02/22 18:34:42 by klucchin        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
 

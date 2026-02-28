@@ -3,10 +3,10 @@
 #                                                      :::      ::::::::    #
 #  ft_inventory_system.py                            :+:      :+:    :+:    #
 #                                                  +:+ +:+         +:+      #
-#  By: klucchin <klucchin@student.42.fr>         +#+  +:+       +#+         #
+#  By: klucchin <klucchin@student.42nice.fr>     +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
 #  Created: 2026/02/18 19:18:48 by klucchin        #+#    #+#               #
-#  Updated: 2026/02/18 19:52:33 by klucchin        ###   ########.fr        #
+#  Updated: 2026/02/22 18:34:30 by klucchin        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
 

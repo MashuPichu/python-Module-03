@@ -3,10 +3,10 @@
 #                                                      :::      ::::::::    #
 #  ft_command_quest.py                               :+:      :+:    :+:    #
 #                                                  +:+ +:+         +:+      #
-#  By: klucchin <klucchin@student.42.fr>         +#+  +:+       +#+         #
+#  By: klucchin <klucchin@student.42nice.fr>     +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
 #  Created: 2026/02/13 19:52:09 by klucchin        #+#    #+#               #
-#  Updated: 2026/02/17 17:25:02 by klucchin        ###   ########.fr        #
+#  Updated: 2026/02/22 18:34:45 by klucchin        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
 

@@ -3,10 +3,10 @@
 #                                                      :::      ::::::::    #
 #  ft_achievement_tracker.py                         :+:      :+:    :+:    #
 #                                                  +:+ +:+         +:+      #
-#  By: klucchin <klucchin@student.42.fr>         +#+  +:+       +#+         #
+#  By: klucchin <klucchin@student.42nice.fr>     +#+  +:+       +#+         #
 #                                              +#+#+#+#+#+   +#+            #
 #  Created: 2026/02/18 17:53:08 by klucchin        #+#    #+#               #
-#  Updated: 2026/02/18 19:18:54 by klucchin        ###   ########.fr        #
+#  Updated: 2026/02/22 18:34:35 by klucchin        ###   ########.fr        #
 #                                                                           #
 # ************************************************************************* #
 
